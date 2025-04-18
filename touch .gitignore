@@ -1,0 +1,21 @@
+# 📦 Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🧪 Virtual environments
+myenv/
+env/
+venv/
+
+# 🧾 IDE
+.idea/
+.vscode/
+
+# 🗂 База данных
+*.db
+
+# 🔑 Секреты (если есть)
+*.env
+config.py
